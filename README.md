@@ -7,6 +7,4 @@ Special Thanks to
 
 GameDev Team https://www.gamedev.tv/
 
-FreakyFeet https://youtu.be/jZYxls-TOZ8
-
 KennyAsset https://www.kenney.nl/
